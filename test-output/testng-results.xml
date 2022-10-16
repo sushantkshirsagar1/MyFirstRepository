@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="2" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-06-24T13:00:02 IST" name="Default suite" finished-at="2022-06-24T13:00:02 IST" duration-ms="94">
+    <groups>
+    </groups>
+    <test started-at="2022-06-24T13:00:02 IST" name="Default test" finished-at="2022-06-24T13:00:02 IST" duration-ms="94">
+      <class name="test.DashBoardPageTest">
+        <test-method is-config="true" signature="initbrowser()[pri:0, instance:test.DashBoardPageTest@55493582]" started-at="2022-06-24T12:59:43 IST" name="initbrowser" finished-at="2022-06-24T13:00:02 IST" duration-ms="18338" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initbrowser -->
+        <test-method signature="buysharevalidation()[pri:4, instance:test.DashBoardPageTest@55493582]" started-at="2022-06-24T13:00:02 IST" name="buysharevalidation" finished-at="2022-06-24T13:00:02 IST" duration-ms="12" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- buysharevalidation -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:test.DashBoardPageTest@55493582]" started-at="2022-06-24T13:00:02 IST" name="teardown" finished-at="2022-06-24T13:00:02 IST" duration-ms="307" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- test.DashBoardPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
